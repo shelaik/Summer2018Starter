@@ -13,6 +13,8 @@ you can either create a new repo or fork this one
 ## Give your instructor write permissions
 you need to give write permission to that repo to your tutor and to @WolframSummerSchoolProjects. Additionally please give write permissions to @abritac and @swedewhite for organizational purposes (you can revoke these at the end of school).
 
+test change
+
 
 ## Download and install a Git UI
 *On OSX / Wndows*:  
